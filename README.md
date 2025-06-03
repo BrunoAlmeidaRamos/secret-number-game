@@ -24,10 +24,3 @@ Você pode jogar agora mesmo clicando no link abaixo:
 - CSS3
 - JavaScript (puro)
 
----
-
-## 📷 Imagem do projeto (opcional)
-
-Você pode adicionar um print aqui:
-
-```md
